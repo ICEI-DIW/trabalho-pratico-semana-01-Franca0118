@@ -1,0 +1,19 @@
+*{
+    border: 0px;
+    padding: 0px;
+}
+
+body{
+    width: 100vw;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+
+h1{
+    color: blue;
+    font-size: 40px;
+}
