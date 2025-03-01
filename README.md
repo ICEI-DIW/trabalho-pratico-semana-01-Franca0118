@@ -7,7 +7,8 @@ Nome: João Victor França
 Matricula: 885053
 
 ## Tela de inspeção com navegador
+![devTools](https://github.com/user-attachments/assets/5911a7ad-54f7-4850-9ff9-46c46a8fdb22)
 
 
 ## Tela de projeto no Replit
-
+https://efee81e3-d440-439e-a005-a2ac03f27bc4-00-3s50iwzb82nh9.kirk.replit.dev/
